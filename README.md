@@ -1,2 +1,2 @@
 # TrabalhoFaculdade
-Projeto em desenvolvimento para apresentação 
+Projeto em desenvolvimento 
